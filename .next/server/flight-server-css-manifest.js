@@ -1,0 +1,16 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "C:\\Users\\LENOVO\\source\\repos\\expense-tracker\\app\\layout.tsx": [
+      "C:\\Users\\LENOVO\\source\\repos\\expense-tracker\\app\\globals.css",
+      "C:\\Users\\LENOVO\\source\\repos\\expense-tracker\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "C:\\Users\\LENOVO\\source\\repos\\expense-tracker\\node_modules\\bootstrap\\dist\\css\\bootstrap.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\LENOVO\\source\\repos\\expense-tracker\\app\\page": [
+      "C:\\Users\\LENOVO\\source\\repos\\expense-tracker\\app\\globals.css",
+      "C:\\Users\\LENOVO\\source\\repos\\expense-tracker\\node_modules\\bootstrap\\dist\\css\\bootstrap.css",
+      "C:\\Users\\LENOVO\\source\\repos\\expense-tracker\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
